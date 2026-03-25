@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>มอบตัวนักเรียน</title>
+    <title>จัดตารางสอน</title>
 </head>
 <body style="margin: 0; padding: 0; overflow: hidden; background-color: #f8fafc;">
     <iframe style="width: 100%; height: 100vh; border: none;" src="https://script.google.com/macros/s/AKfycbyrd2FXt-qE4tja0u4IdnUkQ91azD0x-LeGdHtfgaA9idMsIcU50bWTUvIQ6kaSxEtOHg/exec" title="ระบบมอบตัวนักเรียน"></iframe>
